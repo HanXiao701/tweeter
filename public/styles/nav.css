@@ -1,0 +1,33 @@
+nav {
+    height: 120px;
+    width: 100%;
+    background-color: #4056A1;
+    color: #FFFFFF;
+}
+
+nav span {
+    top: 50%;
+    display: inline-block;
+    position: relative;
+}
+
+.nav-left {
+    margin-left: 1.5em;
+}
+
+.nav-right {
+    float: right;
+    margin-right: 1.5em;
+}
+
+.double-down-arrow {
+    width: 1em;
+    display: block;
+    margin: auto;
+}
+
+.bungee-regular {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
